@@ -29,7 +29,7 @@ latest_posts:
 
 Namaste and Salaam!
 
-I am a PhD Candidate in Political Science at the University of California, Los Angeles, where I am privileged to be advised by Daniel Posner. I hold an MSc (2020) from the [London School of Economics and Political Science](https://www.lse.ac.uk/), and a BSc (2019) from the Symbiosis School of Economics.
+I am a PhD Candidate in Political Science at the University of California, Los Angeles, where I am privileged to be advised by Daniel Posner. I hold an MSc (2020) from the London School of Economics and Political Science, and a BSc (2019) from the Symbiosis School of Economics.
 
 My research draws on modern computational methods and social psychological experiments to study political campaigns and ethnic violence in South Asia and other contexts. You can find my CV [here]({{ '/assets/pdf/cv.pdf' | relative_url }}).
 
