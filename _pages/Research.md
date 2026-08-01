@@ -28,8 +28,6 @@ nav_order: 2
 Demographic Change, Social Distance, and Policy Preferences: Empirical Evidence from India
 </h2>
 
-<h4>Abstract</h4>
-
 <div class="paper-abstract">
 
 Though political scientists generally understand how demographic changes affect relations between the majority and the minority, less is known about how they affect relations within the majority. I study this question using a survey experiment in India (N = 1,208), where between 1950 and 2020, the Muslim population grew by over 170 million. Results show that priming respondents with population shifts exacerbates social distance between upper- and lower-caste Hindus. However, they also lead both subgroups to prioritize collective policies benefiting Hindus as a whole over redistributive policies addressing caste disparities. Together, these findings suggest that perceived outgroup threats can induce collective mobilization without necessarily improving social cohesion, helping explain when and why disadvantaged subgroups act against their own interests.
