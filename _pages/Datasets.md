@@ -56,6 +56,7 @@ underlying source material.
   // Your Leaflet map goes here — container id is "cvd-map" above.
 </script>
 
+<br>
 
 <h3 class="ucla-heading">Data Release</h3>
 
