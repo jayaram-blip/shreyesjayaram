@@ -39,7 +39,7 @@ My research draws on modern computational methods and social psychological exper
 
 My dissertation comprises three empirical chapters. 
 
-In the first, I develop a cheap, replicable, and scalable pipeline to identify, extract, and geolocate event data from newspaper archives. Employing this pipeline, I construct a novel dataset documenting episodes of Hindu-Muslim communal mobilization and violence in India between 2014 and 2024. 
+In the first, I develop a cheap, replicable, and scalable pipeline to identify, extract, and geolocate event data from newspaper archives. Employing this pipeline, I construct a novel [dataset](https://jayaram-blip.github.io/datasets/) documenting episodes of Hindu-Muslim communal mobilization and violence in India between 2014 and 2024. 
 
 In my [job market paper]({{ '/assets/pdf/job_market_paper.pdf' | relative_url }}), I use this dataset to evaluate whether political campaigns can help bring groups together and reduce intergroup conflict in polarized societies. After geolocating the route of the Bharat Jodo Yatra (Unite India March), a 150-day-long march organized by the Indian National Congress party, I employ a synthetic control design to estimate the march's effects on local violence. I find that exposure to the march reduced conflict for months afterwards.
 
