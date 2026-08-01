@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Political Science, <a href="https://polisci.ucla.edu/">UCLA</a>
+subtitle: 
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Bunche Hall, UCLA</p>
     <p>Los Angeles, CA 90095</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
