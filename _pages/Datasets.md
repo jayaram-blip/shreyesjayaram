@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datasets
-permalink: /Datasets/
+permalink: /datasets/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
