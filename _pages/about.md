@@ -45,7 +45,7 @@ In my [job market paper]({{ '/assets/pdf/job_market_paper.pdf' | relative_url }}
 
 In the third and final chapter, I leverage a series of survey experiments to better understand when and how mass politics might promote social change. Making use of video vignette treatments and quasi-behavioral measures, I test when and how exposure to campaigns and mass movements might prompt observers to shifts their attitudes and behaviors.
 
-This work has been supported by the [UCLA Political Psychology Lab](https://www.searslab.psych.ucla.edu/) and the [Bendari Kindness Institute](https://kindness.ucla.edu/).
+This work has been graciously supported by the [UCLA Political Psychology Lab](https://www.searslab.psych.ucla.edu/) and the [Bedari Kindness Institute](https://kindness.ucla.edu/).
 
 <h3 class="ucla-heading">Works in progress</h3>
 
