@@ -30,7 +30,7 @@ latest_posts:
 
 <h3 class="ucla-heading">Namaste/Salaam!</h3>
 
-I am a PhD Candidate in [Political Science](https://polisci.ucla.edu/) at the University of California, Los Angeles, where I am privileged to be advised by [Daniel Posner](https://danielnposner.com/). Before joining UCLA, I earned an MSc (2020) with Distinction in Comparative Politics from the [London School of Economics and Political Science](https://www.lse.ac.uk/), and a BSc (2019) with Honours in Economics from the [Symbiosis School of Economics](https://www.sse.ac.in/).
+I am a PhD Candidate in Political Science at the [University of California, Los Angeles](https://polisci.ucla.edu/), where I am privileged to be advised by [Daniel Posner](https://danielnposner.com/). Before joining UCLA, I earned an MSc (2020) with Distinction in Comparative Politics from the [London School of Economics and Political Science](https://www.lse.ac.uk/), and a BSc (2019) with Honours in Economics from the [Symbiosis School of Economics](https://www.sse.ac.in/).
 
 My research draws on modern computational methods and social psychological experiments to study mass politics and intergroup conflict in South Asia and other contexts. You can find my CV [here]({{ '/assets/pdf/202603CV.pdf' | relative_url }}).
 
