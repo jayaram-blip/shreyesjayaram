@@ -39,11 +39,11 @@ My research draws on modern computational methods and social psychological exper
 
 My dissertation comprises three empirical chapters. 
 
-In the first, I develop a cheap, replicable, and scalable pipeline to identify, extract, and geolocate event data from text that requires only minimal human annotation. Employing this pipeline, I construct a novel event dataset documenting episodes of Hindu-Muslim communal mobilization and violence in India between 2014 and 2024. 
+In the first, I develop a cheap, replicable, and scalable pipeline to identify, extract, and geolocate event data from newspaper archives. Employing this pipeline, I construct a novel dataset documenting episodes of Hindu-Muslim communal mobilization and violence in India between 2014 and 2024. 
 
-In the second, I employ this dataset to evaluate whether political campaigns can help bring groups together and reduce intergroup conflict in polarized societies. After geolocating the route of the Bharat Jodo Yatra (Unite India March), a 150-day long march organized by the Indian National Congress party, I employ a synthetic control design to estimate the march's effects on local violence. I find that exposure to the march reduced conflict for months afterwards.
+In my [job market paper]({{ '/assets/pdf/job_market_paper.pdf' | relative_url }}), I employ this dataset to evaluate whether political campaigns can help bring groups together and reduce intergroup conflict in polarized societies. After geolocating the route of the Bharat Jodo Yatra (Unite India March), a 150-day-long march organized by the Indian National Congress party, I employ a synthetic control design to estimate the march's effects on local violence. I find that exposure to the march reduced conflict for months afterwards.
 
-In the third and final chapter, I employ a series of survey experiments to better understand when and how mass politics might promote social change. Making use of video vignette treatments and a series of quasi-behavioral measures, I test when and how exposure to campaigns and mass movements might prompt observers to shifts their attitudes and behaviors.
+In the third and final chapter, I leverage a series of survey experiments to better understand when and how mass politics might promote social change. Making use of video vignette treatments and quasi-behavioral measures, I test when and how exposure to campaigns and mass movements might prompt observers to shifts their attitudes and behaviors.
 
 This work has been supported by the [UCLA Political Psychology Lab](https://www.searslab.psych.ucla.edu/) and the [Bendari Kindness Institute](https://kindness.ucla.edu/).
 
