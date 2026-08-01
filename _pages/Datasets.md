@@ -17,8 +17,6 @@ horizontal: false
 
 <h3 class="ucla-heading">Communal Violence Dataset</h3>
 
-## Communal Violence Dataset
-
 The Communal Violence Dataset (CVD) systematically records episodes of Hindu–Muslim communal violence in India between 2017–2024. To construct this dataset, I scraped over 1 million articles from the archives of the Times of India, India's newspaper record. Employing modern computational tools, I systematically identified, extracted, geolocated, and deduplicated reports of communal violence, before spatially joining them to various maps of India's administrative and electoral geographical units. Each record retains a direct link to its original newspaper article, enabling easy inspection of the underlying source material.
 
 <h3 class="ucla-heading">Interactive Map</h3>
