@@ -22,9 +22,9 @@ nav_order: 2
   }
 </style>
 
-<h3 class="ucla-heading">Working Paper</h3>
+<h2 class="ucla-heading">Working Paper</h3>
 
-<h2 class="paper-title">
+<h4 class="paper-title">
 Demographic Change, Social Distance, and Policy Preferences: Empirical Evidence from India
 </h2>
 
