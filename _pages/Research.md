@@ -30,6 +30,8 @@ nav_order: 2
 Demographic Change, Social Distance, and Policy Preferences: Empirical Evidence from India
 </h4>
 
+<br>
+
 <iframe
   src="{{ '/assets/pdf/Jayaram_2024.pdf' | relative_url }}"
   width="100%"
