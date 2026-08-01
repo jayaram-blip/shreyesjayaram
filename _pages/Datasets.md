@@ -2,7 +2,7 @@
 layout: page
 title: Datasets
 permalink: /datasets/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
 display_categories: [work, fun]
