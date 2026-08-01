@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: HOME
 permalink: /
 subtitle: PhD Candidate in Political Science, UCLA
 
