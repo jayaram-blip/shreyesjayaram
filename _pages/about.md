@@ -35,19 +35,20 @@ My research draws on modern computational methods and social psychological exper
 
 ## Dissertation
 
+In the first paper, I introduce a novel geocoded event dataset documenting episodes of Hindu-Muslim communal violence in India between 2014 and 2024. Making use of modern computational methods, I identify, extract, and geolocate events from a corpora of millions of newspaper articles, constructed with minimal human annotation.
+
+
+In the second paper, I use my dataset to evaluate whether political campaigns can help bring groups together and reduce intergroup conflict in polarized societies. After geolocating the route of the Bharat Jodo Yatra (Unite India March), a 150-day long march organized by the Indian National Congress party, I employ a synthetic control design to estimate the march’s effects on local violence. I find that exposure to the march reduced conflict for months afterwards.
+
+
+In the third paper, I employ a series of survey experiments to better understand when and how mass politics persuades others to shift their attitudes and behaviors. Making use of video vignette treatments and a series of quasi-behavioral measures, I test the power of political rallies and mass movements to promote social change.  
+
 Taken together, the three chapters speak to urgent questions about peacebuilding in diverse societies.
-
-**A new record of communal violence.** In the first paper, I introduce a novel geocoded event dataset documenting episodes of Hindu–Muslim communal violence in India between 2014 and 2024. Using modern computational methods, I identify, extract, and geolocate events from a corpus of millions of newspaper articles, constructed with minimal human annotation. [Explore the data →]({{ '/data/' | relative_url }})
-
-**Can a march reduce violence?** In the second paper, I use this dataset to evaluate whether political campaigns can bring groups together and reduce intergroup conflict in polarized societies. After geolocating the route of the Bharat Jodo Yatra (Unite India March), a 150-day march organized by the Indian National Congress party, I employ a synthetic control design to estimate the march's effects on local violence. I find that exposure to the march reduced conflict for months afterwards.
-
-**What actually persuades.** In the third paper, I employ a series of survey experiments to better understand when and how mass politics persuades people to shift their attitudes and behaviors. Using video vignette treatments and a set of quasi-behavioral measures, I test the power of political rallies and mass movements to promote social change.
 
 This work has been supported by the UCLA Political Psychology Lab and the Bendari Kindness Institute.
 
 ## Works in progress
 
-- Jayaram Dataset on Communal Mobilization and Violence in India
+- Novel Dataset on Communal Mobilization and Violence in India
 - The Price of Resistance: Revolutionary Violence and Long-Run Residential Segregation in Northern Ireland
-- Disaggregating Apartheid Violence: Using Data from the Truth and Reconciliation Commission to Better Understand the Long-Run Effects of Violence
 - Caste and Communal Violence: How Hindu–Muslim Violence Reifies Caste Hierarchies
