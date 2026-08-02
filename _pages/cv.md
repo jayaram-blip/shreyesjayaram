@@ -8,7 +8,7 @@ redirect_to: /assets/pdf/202608CV.pdf
 ---
 
 <script>
-  window.location.replace("{{ '/assets/pdf/202603CV.pdf' | relative_url }}");
+  window.location.replace("{{ '/assets/pdf/202608CV.pdf' | relative_url }}");
 </script>
 <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/202608CV.pdf' | relative_url }}">
 
