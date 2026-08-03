@@ -23,7 +23,7 @@ The Indian Communal Violence Archive (ICVA) is a new event dataset covering
 Hindu–Muslim communal violence across India from 2017 to 2024.
 To build it, I collected and processed more than one million articles from the
 <i>Times of India</i>, India's newspaper of record. I first used a BERT model as a high-recall filter to identify potentially relevant
-articles before using large language models to classify reports of communal violence,
+articles before using generative large language models to classify reports of communal violence,
 including incidents described through ambiguous language, euphemisms, or incomplete
 reporting. I then extracted structured information about each incident, developed a
 triangulation strategy to geolocate events from multiple partially overlapping reports,
@@ -37,9 +37,9 @@ and electoral geography.
 <p>
 The map below links every recorded incident to India's Assembly Constituencies (ACs).
 You can zoom and pan across the country, explore patterns of communal violence, and
-click on individual constituencies to view recorded incidents. Each incident includes
+click on individual constituencies to view recorded episodes. Each episodes includes
 a short machine-assisted summary together with a direct link to the original
-<i>Times of India</i> article, allowing users to quickly inspect and verify the
+<i>Times of India</i> article, making it easy to quickly inspect and verify the
 underlying source material.
 </p>
 
