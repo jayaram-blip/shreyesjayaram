@@ -13,7 +13,7 @@ I have had the privilege of teaching eight quarters at UCLA. During this time, I
 
 As instructor of record, I would love to teach courses on political violence, political psychology, and politics in South Asia and the Global South more broadly. 
 
-You can find my compiled teaching evaluations [here]({{ '/assets/pdf/Consolidated Evals.pdf' | relative_url }})..
+You can find my compiled teaching evaluations [here]({{ '/assets/pdf/Consolidated Evals.pdf' | relative_url }}).
 
 
 
